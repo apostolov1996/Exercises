@@ -1,0 +1,4 @@
+﻿  overloadingIncrementDecrementOperators.cpp
+E:\Software Engineering\c++ IDE\Exercises\overloadingIncrementDecrementOperators\overloadingIncrementDecrementOperators\overloadingIncrementDecrementOperators.cpp(52): warning C4172: returning address of local variable or temporary: temp
+E:\Software Engineering\c++ IDE\Exercises\overloadingIncrementDecrementOperators\overloadingIncrementDecrementOperators\overloadingIncrementDecrementOperators.cpp(39): warning C4172: returning address of local variable or temporary: temp
+  overloadingIncrementDecrementOperators.vcxproj -> E:\Software Engineering\c++ IDE\Exercises\overloadingIncrementDecrementOperators\Debug\overloadingIncrementDecrementOperators.exe
