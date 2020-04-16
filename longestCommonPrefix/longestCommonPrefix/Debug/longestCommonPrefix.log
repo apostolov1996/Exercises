@@ -1,0 +1,6 @@
+﻿  longestCommonPrefix.cpp
+e:\software engineering\c++ ide\exercises\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(9): warning C4018: '<': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(10): warning C4018: '>': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(23): warning C4018: '<': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\longestcommonprefix\longestcommonprefix\longestcommonprefix.cpp(30): warning C4715: 'commonPrefix': not all control paths return a value
+  longestCommonPrefix.vcxproj -> E:\Software Engineering\c++ IDE\Exercises\longestCommonPrefix\Debug\longestCommonPrefix.exe
