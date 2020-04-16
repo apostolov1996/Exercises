@@ -1,0 +1,6 @@
+﻿  commonPrefixWhileLoop.cpp
+e:\software engineering\c++ ide\exercises\commonprefixwhileloop\commonprefixwhileloop\commonprefixwhileloop.cpp(9): warning C4018: '<': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\commonprefixwhileloop\commonprefixwhileloop\commonprefixwhileloop.cpp(10): warning C4018: '>': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\commonprefixwhileloop\commonprefixwhileloop\commonprefixwhileloop.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\software engineering\c++ ide\exercises\commonprefixwhileloop\commonprefixwhileloop\commonprefixwhileloop.cpp(31): warning C4715: 'getCommonPrefix': not all control paths return a value
+  commonPrefixWhileLoop.vcxproj -> E:\Software Engineering\c++ IDE\Exercises\commonPrefixWhileLoop\Debug\commonPrefixWhileLoop.exe
