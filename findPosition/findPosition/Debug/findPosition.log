@@ -1,0 +1,4 @@
+﻿  findPosition.cpp
+E:\Software Engineering\c++ IDE\Exercises\findPosition\findPosition\findPosition.cpp(17,40): warning C4018: '<=': signed/unsigned mismatch
+E:\Software Engineering\c++ IDE\Exercises\findPosition\findPosition\findPosition.cpp(19,43): warning C4018: '<': signed/unsigned mismatch
+  findPosition.vcxproj -> E:\Software Engineering\c++ IDE\Exercises\findPosition\Debug\findPosition.exe
